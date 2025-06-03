@@ -37,7 +37,9 @@ spotify/
 ```
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/62bd6b47-d114-426e-a4b3-aa12e1f66ad3)
+![Imagem do WhatsApp de 2025-06-03 à(s) 12 54 23_77949305](https://github.com/user-attachments/assets/1d11f505-008d-4303-afe3-36b72e0849f5)
+
+
 
 
 ## Autor
