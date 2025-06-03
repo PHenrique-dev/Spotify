@@ -1,5 +1,6 @@
 html, body, #home{
     height: 100%;
+    overflow-x: hidden;
 }
 body{
     background: url(../img/capa.png),
@@ -63,8 +64,27 @@ h3{
     padding-top: 20px;
     padding-bottom: 20px;
 }
+#recursos{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 #servicos h2, h3{
     color: #6b22d1;
+}
+#recursos h3{
+    color: #9bf0e1;
+}
+#recursos h2{
+    color:white
+}
+#recursos p{
+    color: white;
+}
+.rotacionar{
+    -ms-transform: rotate(30deg); /* IE 9 */
+    -webkit-transform: rotate(30deg); /* Safari */
+    transform: rotate(30deg);
+    padding-left: 80px;
 }
 
 @media (max-width: 575.98px) { 
