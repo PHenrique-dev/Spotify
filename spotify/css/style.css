@@ -44,6 +44,12 @@ nav.navbar-trasparent{
     background: white;
     color: black;
 }
+.carousel-item-next, .carousel-item-prev, .carousel-item.active{
+    margin: 10px;
+}
+.carousel-control-next, .carousel-control-prev{
+    width: 5%;
+}
 h1{
     font-weight: 900;
     letter-spacing: -0.05em;
